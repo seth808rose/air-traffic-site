@@ -1,3 +1,3 @@
-# air-traffic-site
-air-traffic-site.netlify.app
-
+# air-traffic-gallery
+# https://air-traffic-site.netlify.app
+I love all things aviation!! Ultimately this is just me having fun. Link tags have been implemented over the images to provide more specific info into the particular image/plane.
