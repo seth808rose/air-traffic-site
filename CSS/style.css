@@ -262,7 +262,6 @@ img {
     opacity: 1;
     transition: all 0.3s linear;
   }
- 
 }
 
 @media screen and (min-width: 1170px) {
@@ -293,26 +292,34 @@ img {
 
   .image-1 {
     grid-area: a;
+    filter: drop-shadow(0 3px 10px gray);
   }
   .image-2 {
     grid-area: b;
+    filter: drop-shadow(0 3px 10px gray);
   }
   .iimage-3 {
     grid-area: c;
+    filter: drop-shadow(0 3px 10px gray);
   }
   .image-4 {
     grid-area: d;
+    filter: drop-shadow(0 3px 10px gray);
   }
   .image-5 {
     grid-area: e;
+    filter: drop-shadow(0 3px 10px gray);
   }
   .image-6 {
     grid-area: f;
+    filter: drop-shadow(0 3px 10px gray);
   }
   .image-7 {
     grid-area: g;
+    filter: drop-shadow(0 3px 10px gray);
   }
   .image-8 {
     grid-area: h;
+    filter: drop-shadow(0 3px 10px gray);
   }
 }
